@@ -58,6 +58,12 @@ namespace WindowsFormsApp2
         private void button3_Click(object sender, EventArgs e)
         {
             new Movimentacoes().Show();
+            this.Close();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new AdicionarProduto().Show();
         }
     }
 }

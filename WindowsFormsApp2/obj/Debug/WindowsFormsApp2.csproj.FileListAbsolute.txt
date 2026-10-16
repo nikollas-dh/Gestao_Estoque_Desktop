@@ -18,3 +18,4 @@ C:\Users\25163076\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFram
 C:\Users\25163076\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
 C:\Users\25163076\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Categoria.resources
 C:\Users\25163076\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Controls.ProdutosControl.resources
+C:\Users\25163076\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AdicionarProduto.resources
